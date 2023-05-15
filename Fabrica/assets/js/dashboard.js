@@ -63,7 +63,7 @@
     }
     if ($("#transaction-history").length) {
       var areaData = {
-        labels: ["Paypal", "Stripe","Cash"],
+        labels: ["Manuntenção", "Compra de matérias","Melhorias"],
         datasets: [{
             data: [55, 25, 20],
             backgroundColor: [
@@ -133,7 +133,7 @@
     }
     if ($("#transaction-history-arabic").length) {
       var areaData = {
-        labels: ["Paypal", "Stripe","Cash"],
+        labels: ["Manuntenção", "Compra de matérias","Melhorias"],
         datasets: [{
             data: [55, 25, 20],
             backgroundColor: [
