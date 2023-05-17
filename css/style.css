@@ -51,7 +51,6 @@ html {
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
-
 article,
 aside,
 figcaption,
@@ -2237,6 +2236,7 @@ textarea.form-control {
   position: relative;
   display: block;
   padding-left: 1.25rem;
+  
 }
 
 .form-check-input {
@@ -3727,6 +3727,7 @@ input[type="button"].btn-block {
   position: absolute;
   clip: rect(0, 0, 0, 0);
   pointer-events: none;
+  
 }
 
 .input-group {
@@ -3858,6 +3859,7 @@ input[type="button"].btn-block {
 .input-group-text input[type="radio"],
 .input-group-text input[type="checkbox"] {
   margin-top: 0;
+  
 }
 
 .input-group-lg > .form-control:not(textarea),
@@ -3998,6 +4000,7 @@ input[type="button"].btn-block {
 
 .custom-checkbox .custom-control-label::before {
   border-radius: 0.25rem;
+  
 }
 
 .custom-checkbox .custom-control-input:checked ~ .custom-control-label::after {
