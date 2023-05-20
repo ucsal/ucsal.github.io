@@ -105,7 +105,7 @@ ul {
 ---------------------------------------------
 global styles
 --------------------------------------------- 
-*/
+*/t-size
 html,
 body {
   background: #fff;
@@ -375,7 +375,7 @@ header
 */
 .header-area {
   position: fixed;
-  top: 30px;
+  top: 145px;
   left: 0px;
   right: 0px;
   z-index: 100;
@@ -627,8 +627,16 @@ header
   }
 }
 
-@media (min-width: 992px) {
+@media (min-width: 1000px) {
   .header-area .main-nav .nav {
+    margin-right: 5.5% !important;
+    display: flex !important;
+  }
+}
+
+@media (min-width: 1200px) {
+  .header-area .main-nav .nav {
+    margin-right: 9% !important;
     display: flex !important;
   }
 }
@@ -701,7 +709,7 @@ welcome
 
 @media (max-width: 820px) {
   .welcome-area .header-text {
-    top: 65% !important;
+    top: 50% !important;
     transform: perspective(1px) translateY(-60%) !important;
   }
    .welcome-area .header-text h1 {
@@ -719,7 +727,7 @@ welcome
     margin-bottom: 100px;
   }
   .welcome-area .header-text {
-    top: 50% !important;
+    top: 60% !important;
     transform: perspective(1px) translateY(-50%) !important;
     text-align: center;
   }
@@ -728,7 +736,7 @@ welcome
   }
   .welcome-area .header-text h1 {
     font-weight: 600;
-    font-size: 24px !important;
+    font-size: 18px !important;
     line-height: 30px !important;
     margin-bottom: 30px !important;
   }
@@ -738,7 +746,7 @@ welcome
   .welcome-area .header-text p {
     text-align: center;
     color: #fff;
-    font-size: 14px;
+    font-size: 12px;
     line-height: 22px;
     margin-bottom: 40px;
   }
