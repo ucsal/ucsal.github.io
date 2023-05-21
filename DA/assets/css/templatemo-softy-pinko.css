@@ -1564,7 +1564,33 @@ preloader
   -webkit-animation-delay: 0.66666s;
   animation-delay: 0.66666s;
 }
+/* 
+---------------------------------------------
+numbered
+--------------------------------------------- 
+*/
 
+.list-group-numbered {
+  counter-reset: item;
+  list-style-type: none;
+}
+
+.list-group-numbered li {
+  display: block;
+}
+
+.list-group-numbered li:before {
+  content: counter(item) ". ";
+  counter-increment: item;
+  margin-right: 0.5em;
+  font-weight: bold;
+}
+
+/* 
+---------------------------------------------
+numbered
+--------------------------------------------- 
+*/
 @-webkit-keyframes jumper {
   0% {
     opacity: 0;
