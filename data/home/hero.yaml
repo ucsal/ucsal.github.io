@@ -1,0 +1,15 @@
+enabled: true
+id: "hero"
+
+content:
+  title: "Como **lançar** sua ideia"
+  text: "Elevando padrões e superando expectativas, nós transformamos sonhos em realidade."
+
+  buttonPrimary:
+    label: "Como trabalhamos"
+    url: "#"
+
+  buttonSecondary:
+    label: "Vamos conversar"
+    url: ""
+
