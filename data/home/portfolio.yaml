@@ -8,7 +8,7 @@ content:
     text: "Projetos utilizando Api's do Google"
 
     buttons: 
-      - label: """
+      - label: ""
         url: "#"
 
       - label: "Leia mais"
