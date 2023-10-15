@@ -28,9 +28,7 @@ params:
     twitter: "#"
 
   location:
-    - "Av. Prof. Pinto de Aguiar, 2589 Pituaçu"
-    - "Salvador - BA, 41740-090"
-    
+    - "Av. Prof. Pinto de Aguiar, 2589 Pituaçu, Salvador - BA, 41740-090"    
 
   contact:
     - "osvaldo.melo@ucsal.br"
@@ -44,15 +42,15 @@ menus:
       url: "/#hero"
       weight: 1
 
-    - name: "How we work"
+    - name: "Como Funciona"
       url: "/#"
       weight: 2
 
-    - name: "Our team"
+    - name: "Nosso Time"
       url: "/#"
       weight: 3
 
-    - name: "Pricing"
+    - name: "Projetos"
       url: "/#"
       weight: 4
 
@@ -71,15 +69,15 @@ menus:
       url: "/#hero"
       weight: 1
 
-    - name: "How we work"
+    - name: "Como Funciona"
       url: "/#"
       weight: 2
 
-    - name: "Our team"
+    - name: "Nosso Time"
       url: "/#"
       weight: 3
 
-    - name: "Pricing"
+    - name: "Projetos"
       url: "/#"
       weight: 4
 
