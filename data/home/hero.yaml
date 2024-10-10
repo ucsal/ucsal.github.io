@@ -2,14 +2,14 @@ enabled: true
 id: "hero"
 
 content:
-  title: "Como **lançar** sua ideia"
-  text: "Elevando padrões e superando expectativas, nós transformamos sonhos em realidade."
+  title: "Fábrica de Software"
+  text: "Elevando padrões e superando expectativas, acesse o edital da fábrica de software para transformar seus sonhos em realidade."
 
   buttonPrimary:
-    label: "Como trabalhamos"
+    label: "Inscreva-se"
     url: "#"
 
-  buttonSecondary:
-    label: "Vamos conversar"
-    url: ""
+  #buttonSecondary:
+   # label: "Vamos conversar"
+    #url: ""
 
