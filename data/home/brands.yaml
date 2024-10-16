@@ -2,7 +2,8 @@ enabled: true
 id: "brands"
 
 content:
-  title: "We work with customers brands and startups"
+  title: 
+ #     "We work with customers brands and startups"
   items:
  #   - "images/brands-google.png"
  #   - "images/brands-google.png"
