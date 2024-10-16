@@ -1,39 +1,39 @@
 enabled: false
 id: "portfolio"
 
-content:
-  - image: "images/portfolio-ecommerce.png"
-    pretitle: "Projetos"
-    title: "Integração com Apis do Google"
-    text: "Projetos utilizando Api's do Google"
+#content:
+#  - image: "images/portfolio-ecommerce.png"
+#    pretitle: "Projetos"
+#    title: "Integração com Apis do Google"
+#    text: "Projetos utilizando Api's do Google"
 
-    buttons: 
-      - label: ""
-        url: "#"
+#    buttons: 
+#      - label: ""
+#        url: "#"
 
-      - label: "Leia mais"
-        url: "#"
+#      - label: "Leia mais"
+#        url: "#"
 
-  - image: "images/portfolio-ecommerce.png"
-    pretitle: "Sites e Apps"
-    title: "Website e Aplicativos"
-    text: "Website e Aplicativos Inovadores"
+#  - image: "images/portfolio-ecommerce.png"
+#    pretitle: "Sites e Apps"
+#    title: "Website e Aplicativos"
+#    text: "Website e Aplicativos Inovadores"
 
-    buttons: 
-      - label: ""
-        url: "#"
+#    buttons: 
+#      - label: ""
+#        url: "#"
 
-      - label: "Leia mais"
-        url: "#"
+#      - label: "Leia mais"
+#        url: "#"
 
-  - image: "images/portfolio-ecommerce.png"
-    pretitle: "Automação"
-    title: "Sistemas para Automação e Gestão"
-    text: "Sistemas para Automação e Gestão"
+#  - image: "images/portfolio-ecommerce.png"
+#    pretitle: "Automação"
+#    title: "Sistemas para Automação e Gestão"
+#    text: "Sistemas para Automação e Gestão"
 
-    buttons: 
-      - label: ""
-        url: "#"
+#    buttons: 
+#      - label: ""
+#        url: "#"
 
-      - label: "Leia mais"
-        url: "#"
+#      - label: "Leia mais"
+#        url: "#"
