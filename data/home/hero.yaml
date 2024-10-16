@@ -1,13 +1,13 @@
-enabled: true
+enabled: false
 id: "hero"
 
-content:
-  title: "Fábrica de **Software**"
-  text: "Elevando padrões e superando expectativas, acesse o edital da fábrica de software para transformar seus sonhos em realidade."
+#content:
+#  title: "Fábrica de **Software**"
+#  text: "Elevando padrões e superando expectativas, acesse o edital da fábrica de software para transformar seus sonhos em realidade."
 
-  buttonPrimary:
-    label: "Inscreva-se"
-    url: "#"
+#  buttonPrimary:
+#    label: "Inscreva-se"
+#    url: "#"
 
   #buttonSecondary:
    # label: "Vamos conversar"
