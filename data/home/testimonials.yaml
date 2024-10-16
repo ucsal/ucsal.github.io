@@ -2,7 +2,7 @@ enabled: false
 id: "testimonials"
 
 content:
-  title: "Testimonials"
+    # title: "Testimonials"
 
   featured:
     # image: "images/testimonials-awards.png"
