@@ -7,7 +7,7 @@ content:
 
   buttonPrimary:
     label: "Inscreva-se"
-    url: "https://forms.gle/P7LxH8a33rUbNCzCA target='blanck'"
+    url: "https://forms.gle/P7LxH8a33rUbNCzCA"
 
   buttonSecondary:
     label: "Veja aqui o edital"
