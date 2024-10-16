@@ -10,7 +10,7 @@ summaryLength: 20
 
 params:
   title: "UCSal Hub"
-  description: "Construindo o Amanhã: UCSal Hub, Líder em Pesquisa, Desenvolvimento e Inovação."
+  description: "Construindo o Amanhã: UCSal Hub - Pesquisa, Desenvolvimento e Inovação."
   images: 
     - "images/hero-image.png"
 
@@ -22,10 +22,10 @@ params:
     faviconColor: "#000000"
 
   social:
-    dribbble: "#"
-    instagram: "#"
-    facebook: "#"
-    twitter: "#"
+    #dribbble: "#"
+    instagram: "https://www.instagram.com/ucsal_oficial/"
+    #facebook: "#"
+    #twitter: "#"
 
   location:
     - "Av. Prof. Pinto de Aguiar, 2589 Pituaçu, Salvador - BA, 41740-090"    
@@ -38,52 +38,52 @@ params:
 
 menus:
   main:
-    - name: "Home"
-      url: "/#hero"
-      weight: 1
+    #- name: "Home"
+    #  url: "/#hero"
+    #  weight: 1
 
-    - name: "Como Funciona"
-      url: "/#"
-      weight: 2
+    #- name: "Como Funciona"
+    #  url: "/#"
+    #  weight: 2
 
-    - name: "Nosso Time"
-      url: "/#"
-      weight: 3
+    #- name: "Nosso Time"
+    #  url: "/#"
+    #  weight: 3
 
-    - name: "Projetos"
-      url: "/#"
-      weight: 4
+    #- name: "Projetos"
+    #  url: "/#"
+    #  weight: 4
 
-    - name: "Blog"
-      url: "/blog"
-      weight: 5
+    #- name: "Blog"
+    #  url: "/blog"
+    #  weight: 5
 
-  buttons:
-    - name: "Enviar Projeto"
-      url: "/#"
-      weight: 5
-      pre: "btn btn-primary text-light"
+  #buttons:
+  #  - name: "Enviar Projeto"
+  #    url: "/#"
+  #    weight: 5
+  #    pre: "btn btn-primary text-light"
 
   footer:
     - name: "Home"
       url: "/#hero"
       weight: 1
 
-    - name: "Como Funciona"
-      url: "/#"
-      weight: 2
+    #- name: "Como Funciona"
+    #  url: "/#"
+    #  weight: 2
 
-    - name: "Nosso Time"
-      url: "/#"
-      weight: 3
+    #- name: "Nosso Time"
+    #  url: "/#"
+    #  weight: 3
 
-    - name: "Projetos"
-      url: "/#"
-      weight: 4
+    #- name: "Projetos"
+    #  url: "/#"
+    #  weight: 4
 
-    - name: "Blog"
-      url: "/blog"
-      weight: 5
+    #- name: "Blog"
+    #  url: "/blog"
+    #  weight: 5
 
 taxonomies:
   series: "series"
