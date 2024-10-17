@@ -38,9 +38,9 @@ params:
 
 menus:
   main:
-    #- name: "Home"
-    #  url: "/#hero"
-    #  weight: 1
+    - name: "Home"
+      url: "/#hero"
+      weight: 1
 
     #- name: "Como Funciona"
     #  url: "/#"
