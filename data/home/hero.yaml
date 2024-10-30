@@ -3,11 +3,12 @@ id: "hero"
 
 content:
   title: "Fábrica de **Software**"
-  text: "Elevando padrões e superando expectativas, acesse o edital da fábrica de software para transformar seus sonhos em realidade."
+  text: "Considerando a quantidade de inscritos e, consequentemente, o tempo utilizado para as entrevistas com todos os alunos agendados, faz-se necessário um ajuste no cronograma do Edital no 01/2024, especificamente na data prevista anteriormente para publicação do resultado."
+#  text: "Elevando padrões e superando expectativas, acesse o edital da fábrica de software para transformar seus sonhos em realidade."
 
   buttonPrimary:
-    label: "Inscreva-se"
-    url: "https://forms.gle/P7LxH8a33rUbNCzCA"
+    label: "Novo Cronograma"
+    url: "https://drive.google.com/file/d/1_8knqRzxjO9yxe3OKy6OtQ337wuHnFqY/view"
 
   buttonSecondary:
     label: "Veja aqui o edital"
