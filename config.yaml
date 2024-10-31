@@ -58,11 +58,11 @@ menus:
     #   url: "/blog"
     #   weight: 5
 
-  buttons:
-    - name: "Aditamento do edital"
-      url: "https://drive.google.com/file/d/1_8knqRzxjO9yxe3OKy6OtQ337wuHnFqY/view?usp=sharing"
-      weight: 5
-      pre: "btn btn-primary text-light"
+  #buttons:
+  #  - name: "Aditamento do edital"
+  #    url: "https://drive.google.com/file/d/1_8knqRzxjO9yxe3OKy6OtQ337wuHnFqY/view?usp=sharing"
+  #    weight: 5
+  #    pre: "btn btn-primary text-light"
 
   footer:
     - name: "Home"
