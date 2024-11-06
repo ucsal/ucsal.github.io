@@ -7,8 +7,8 @@ content:
 #  text: "Elevando padrões e superando expectativas, acesse o edital da fábrica de software para transformar seus sonhos em realidade."
 
   buttonPrimary:
-    label: "Novo Cronograma"
-    url: "https://drive.google.com/file/d/1_8knqRzxjO9yxe3OKy6OtQ337wuHnFqY/view"
+    label: "Resultado"
+    url: "https://ucsal.github.io/post/20241105-resultado/"
 
   buttonSecondary:
     label: "Veja aqui o edital"
