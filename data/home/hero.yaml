@@ -3,8 +3,8 @@ id: "hero"
 
 content:
   title: "Fábrica de **Software**"
-  text: "Considerando a quantidade de inscritos e, consequentemente, o tempo utilizado para as entrevistas com todos os alunos agendados, faz-se necessário um ajuste no cronograma do Edital no 01/2024, especificamente na data prevista anteriormente para publicação do resultado."
-#  text: "Elevando padrões e superando expectativas, acesse o edital da fábrica de software para transformar seus sonhos em realidade."
+#  text: "Considerando a quantidade de inscritos e, consequentemente, o tempo utilizado para as entrevistas com todos os alunos agendados, faz-se necessário um ajuste no cronograma do Edital no 01/2024, especificamente na data prevista anteriormente para publicação do resultado."
+  text: "Elevando padrões e superando expectativas, acesse o edital da fábrica de software para transformar seus sonhos em realidade."
 
   buttonPrimary:
     label: "Regulamento"
